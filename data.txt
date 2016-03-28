@@ -1,0 +1,15 @@
+Value=12
+
+Value=13.5
+
+
+Value=89
+
+
+Value=  40.5
+#Value=31
+
+Value=42
+#Value=12
+
+value=43
